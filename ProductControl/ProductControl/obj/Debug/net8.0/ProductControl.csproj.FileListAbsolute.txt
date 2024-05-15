@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\ProductControl\ProductControl\bin\Debug\net8.0\ProductControl.exe
+C:\Users\ACER\source\repos\ProductControl\ProductControl\bin\Debug\net8.0\ProductControl.deps.json
+C:\Users\ACER\source\repos\ProductControl\ProductControl\bin\Debug\net8.0\ProductControl.runtimeconfig.json
+C:\Users\ACER\source\repos\ProductControl\ProductControl\bin\Debug\net8.0\ProductControl.dll
+C:\Users\ACER\source\repos\ProductControl\ProductControl\bin\Debug\net8.0\ProductControl.pdb
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.dll
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\refint\ProductControl.dll
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.pdb
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ProductControl.genruntimeconfig.cache
+C:\Users\ACER\source\repos\ProductControl\ProductControl\obj\Debug\net8.0\ref\ProductControl.dll
